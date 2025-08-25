@@ -1,8 +1,8 @@
 # Aspiring Computational Neuroscience Researcher
 
-#### Technical Skills: Python, MATLAB , fMRI , neuroimaging analysis
-
 ### Research Interests: Whole Brain modeling, 
+
+#### Technical Skills: Python, MATLAB , fMRI , neuroimaging analysis
 
 ## Education							       		
 - M.Sc., Neuroscience | Universitat de Barcelona (_2024_)	 			        		
