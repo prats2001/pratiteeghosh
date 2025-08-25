@@ -9,15 +9,21 @@
 - B.Sc., Chemistry | University Of Calcutta (_2020_)
 
 ## Research Experience
-**Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE @  Centre for Brain and Cognition, Computational Neuroscience Group, 
-Department of Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain (_Nov 2024 - June 2025_)**
-**Supervised by - Dr. Gustavo Deco and Dr. Jakub Vohryzek**
+**Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE**
+@Centre for Brain and Cognition, Computational Neuroscience Group, 
+Department of Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain (_Nov 2024 - June 2025_)
+
+**Supervised by - Prof. Gustavo Deco and Dr. Jakub Vohryzek**
 - Applied Hopf bifurcation models and gradient algorithms to derive Generative Effective Connectivity (GEC) from ADNI data.
 - Identified novel network biomarkers for early disease stages potentially enabling better diagnosis and monitoring.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+  
+**Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
+Research Assistant,Lady Brabourne College, Kolkata (_Sept 2022 - July 2023_)
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+**Supervised by Prof. Nayim Sepay**
+- Worked with data of 106 protein-ligand crystal structures of Human Dipeptidyl Peptidase IV by curating from Protein Data Bank and
+studying their bonding structure and active residue sites.
+- Studied protein-small molecule interactions of DPP-4 aimed at identifying potential inhibitors for the treatment of type 2 diabetes.
+
+
