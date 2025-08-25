@@ -9,7 +9,7 @@
 - B.Sc., Chemistry | University Of Calcutta (_2020_)
 
 ## Research Experience
-**Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE**
+**I. Whole-Brain Modelling and Whole-Brain Dynamical Analysis in ALZHEIMER’S DISEASE**
 @Centre for Brain and Cognition, Computational Neuroscience Group, 
 Department of Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain (_Nov 2024 - June 2025_)
 
@@ -18,7 +18,7 @@ Department of Information and Communication Technologies, Universitat Pompeu Fab
 - Identified novel network biomarkers for early disease stages potentially enabling better diagnosis and monitoring.
 
   
-**Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
+**II. Crystallography based investigation of non-covalent interactions to design antidiabetic compounds**
 Research Assistant,Lady Brabourne College, Kolkata (_Sept 2022 - July 2023_)
 
 **Supervised by Prof. Nayim Sepay**
